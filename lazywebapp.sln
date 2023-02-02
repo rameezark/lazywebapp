@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lazywebapp", "lazywebapp.csproj", "{EBBE5BA3-B101-498F-816C-07C03A64D36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBE5BA3-B101-498F-816C-07C03A64D36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBE5BA3-B101-498F-816C-07C03A64D36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBE5BA3-B101-498F-816C-07C03A64D36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBE5BA3-B101-498F-816C-07C03A64D36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF471666-750B-4423-88E2-CDBE23CBFC52}
+	EndGlobalSection
+EndGlobal
